@@ -1,0 +1,1 @@
+import{c as e,t}from"./_toKey.9619eec3.js";import{cE as f,bV as h,bD as g,cF as m}from"./entry.ce650135.js";function P(n,r,l){r=e(r,n);for(var a=-1,s=r.length,i=!1;++a<s;){var u=t(r[a]);if(!(i=n!=null&&l(n,u)))break;n=n[u]}return i||++a!=s?i:(s=n==null?0:n.length,!!s&&f(s)&&h(u,s)&&(g(n)||m(n)))}function v(n){return function(r){return r==null?void 0:r[n]}}export{v as b,P as h};

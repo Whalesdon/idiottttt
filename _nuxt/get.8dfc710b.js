@@ -1,0 +1,1 @@
+import{c as i,t as l}from"./_toKey.9619eec3.js";function d(n,e){e=i(e,n);for(var r=0,u=e.length;n!=null&&r<u;)n=n[l(e[r++])];return r&&r==u?n:void 0}function t(n,e,r){var u=n==null?void 0:d(n,e);return u===void 0?r:u}export{d as b,t as g};
